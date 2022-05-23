@@ -20,7 +20,7 @@ Inside the **Project.zip** there is a folder called **BUILD** It contains the ex
 #### Step One: Opening The Dependencies Window
 As mentioned above, running the project through Visual Studio requires some basic setup. To compile the project and run it within visual studio you will need set the dependencies to fit your machine.
 **First**: Open the **Project** Folder. Inside there is a Visual Studio Solution file: **Project_Template.sln** open it.
-![Project SLN in folder](/project.png)
+![Project SLN in folder](project.png)
 **Next:** In the solution explorer right click **Project_Template** and open **Properties**. This will open the properties window.
 ![Properties](/properties.png)
 **Then**: Open **VC++ Directories** in the **General** drop down there will be **Include Directories** and **Library 
