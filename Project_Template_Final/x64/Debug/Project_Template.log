@@ -1,0 +1,25 @@
+﻿  glad.c
+  glslprogram.cpp
+  glutils.cpp
+  objmesh.cpp
+C:\Users\Matt\Documents\Project_Template_Final\helper\objmesh.cpp(188,43): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\helper\objmesh.cpp(194,50): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\helper\objmesh.cpp(198,45): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  plane.cpp
+  teapot.cpp
+  torus.cpp
+  trianglemesh.cpp
+  main.cpp
+  scenebasic_uniform.cpp
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(84,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(92,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(100,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(108,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(116,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(124,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(137,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(137,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matt\Documents\Project_Template_Final\scenebasic_uniform.cpp(137,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project_Template.vcxproj -> C:\Users\Matt\Documents\Project_Template_Final\x64\Debug\Project_Template.exe
